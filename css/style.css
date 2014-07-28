@@ -48,7 +48,7 @@
   background: url(../images/gaza.jpg) no-repeat center center fixed;
   background-size:cover;
   display: table;
-  height: 60%;
+  height: 100%;
   position: relative;
   width: 100%;
 }
